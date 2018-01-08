@@ -1,0 +1,41 @@
+.purple {
+
+	height: 800px;
+	background: purple;
+}
+
+#about {
+
+height: 800px;
+background: blue;
+}
+
+#project {
+
+height: 800px;
+background: yellow;
+}
+
+#contact {
+
+height: 800px;
+background: orange;
+}
+
+.titre-section{
+
+	padding-top: 60px;
+
+}
+
+ .fa {
+
+	font-size: 50px;
+	
+	
+}
+
+li {
+
+	list-style: none;
+}
